@@ -1,0 +1,266 @@
+[33mcommit 70fec1c4ad93bd27b3ac30b539c7515075d89a5c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AndreyTitov <andpyxa07@gmail.com>
+Date:   Wed Apr 18 00:19:34 2018 +0300
+
+    add adaptive-tablet-slider to main page index.html
+
+[33mcommit 9265e1ce587f0b993e3f1146a0e6f41bb335429d[m
+Author: AndreyTitov <andpyxa07@gmail.com>
+Date:   Tue Apr 17 23:39:02 2018 +0300
+
+    fix main paige mobile adaptive slider in index.html
+
+[33mcommit 09806a2a765da694156f37eacbfe8a43e9738a12[m
+Merge: 6dcf244 8af6557
+Author: AndreyTitov <andpyxa07@gmail.com>
+Date:   Tue Apr 17 20:55:26 2018 +0300
+
+    add mobile adaptive to how-it-works.html
+
+[33mcommit 6dcf24410d41922a97b51c84486a48b256983e61[m
+Author: AndreyTitov <andpyxa07@gmail.com>
+Date:   Tue Apr 17 20:54:44 2018 +0300
+
+    add mobile adaptive to how-it-works.html
+
+[33mcommit 8af65575b2740ed37adb48b8b401635ff3f7dec7[m
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Tue Apr 17 19:49:32 2018 +0300
+
+    increase height
+
+[33mcommit 0eba5baf282af845f96cfa95ddfe03fa1157b656[m
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Tue Apr 17 18:47:23 2018 +0300
+
+    cards height
+
+[33mcommit 6923d077574bb8f7f57f9cfaa9cc6e21eebac08e[m
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Tue Apr 17 18:33:16 2018 +0300
+
+    pull
+
+[33mcommit f79c56df3848cf84c78625eab166bbe6796c7bd8[m
+Merge: b0f3484 bcca4d1
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Tue Apr 17 17:46:44 2018 +0300
+
+    merge1
+
+[33mcommit b0f3484d6534107439a315338e400a7d24e20e31[m
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Tue Apr 17 17:42:55 2018 +0300
+
+    merge
+
+[33mcommit bcca4d1da74e9eb84f440ac373006700400ee9b8[m
+Merge: 555faca 5e39b13
+Author: AndreyTitov <andpyxa07@gmail.com>
+Date:   Tue Apr 17 15:50:06 2018 +0300
+
+    add how-it-works.html
+
+[33mcommit 555faca58d7b335ae4b2c1c0d1ea3e9b3854404a[m
+Author: AndreyTitov <andpyxa07@gmail.com>
+Date:   Tue Apr 17 15:49:04 2018 +0300
+
+    add how-it-works.html
+
+[33mcommit 6d63e6c7992252d5fdbbbc14e55ea41b2d4a64f2[m
+Author: AndreyTitov <andpyxa07@gmail.com>
+Date:   Tue Apr 17 12:46:37 2018 +0300
+
+    add adaptive for main paige slider index.html
+
+[33mcommit 5e39b138f4e3ed7ea204184242485fcca3e82740[m
+Merge: c5ca747 82445d9
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Tue Apr 17 07:07:05 2018 +0300
+
+    Merge branch 'master' of https://github.com/ivandoroshenko/skate-fresh
+
+[33mcommit c5ca7475b5af1c602346f85a49ac2d3d9521c1a5[m
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Tue Apr 17 06:33:51 2018 +0300
+
+    commit before pull
+
+[33mcommit 82445d9a4042965e9b3748d3b29bb7f17ae58a41[m
+Merge: f2122e4 a177015
+Author: deniskliatskii <deniskldesign@gmail.com>
+Date:   Tue Apr 17 03:14:14 2018 +0300
+
+    commit before pull fix conflict
+
+[33mcommit f2122e4a58c8f591018f4c28ab5fd3f3d9065c3a[m
+Author: deniskliatskii <deniskldesign@gmail.com>
+Date:   Tue Apr 17 03:12:29 2018 +0300
+
+    add privacy-policy pages
+
+[33mcommit a17701535f9ea012ddcf82bb35df07e1734972e1[m
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Tue Apr 17 02:21:07 2018 +0300
+
+    main.min.css
+
+[33mcommit 4766e7149312cae6fc82f827cb8b02a7c7583883[m
+Merge: d3366b6 07a96c3
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Tue Apr 17 02:18:28 2018 +0300
+
+    Merge branch 'master' of https://github.com/ivandoroshenko/skate-fresh
+
+[33mcommit d3366b6b4df18e63530802324a05ba23d4a3a052[m
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Tue Apr 17 02:17:53 2018 +0300
+
+    paralax.js
+
+[33mcommit 07a96c33dc476681bc2f89e5e1b8c6540e153765[m
+Merge: 9624634 e4675bd
+Author: deniskliatskii <deniskldesign@gmail.com>
+Date:   Tue Apr 17 02:07:16 2018 +0300
+
+    commit before pull
+
+[33mcommit e4675bd206ef61b9c588bcad327f0feda78fbefb[m
+Merge: f6ec15d 2b3bac0
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Tue Apr 17 02:05:28 2018 +0300
+
+    Merge branch 'master' of https://github.com/ivandoroshenko/skate-fresh
+
+[33mcommit 96246342bc8ef3fa96bf3d0f8b5c5e4a1da6b706[m
+Author: deniskliatskii <deniskldesign@gmail.com>
+Date:   Tue Apr 17 02:02:40 2018 +0300
+
+    fix adaptive
+
+[33mcommit f6ec15dbdb65378b87b0be447144ce13944f2672[m
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Tue Apr 17 02:01:45 2018 +0300
+
+    premerge work with gallery
+
+[33mcommit 2b3bac0e83f5d18d70f5605c27f891006d586b8a[m
+Merge: 1192d35 4d950e7
+Author: deniskliatskii <deniskldesign@gmail.com>
+Date:   Mon Apr 16 23:08:57 2018 +0300
+
+    commit defore pull fix conflict main-min.css
+
+[33mcommit 1192d3532adfbc547e83a3327c62be5fb303c75d[m
+Author: deniskliatskii <deniskldesign@gmail.com>
+Date:   Mon Apr 16 23:06:14 2018 +0300
+
+    fix height black cards
+
+[33mcommit 4d950e7e2fb2b858625e972363884e157c08a2ca[m
+Author: AndreyTitov <andpyxa07@gmail.com>
+Date:   Mon Apr 16 21:32:03 2018 +0300
+
+    add an animation to footer input-arrow in index.html and fix main page slider adaptive(mobile)
+
+[33mcommit a191188bd44159c224881ee0dbb5b006da1b9e1a[m
+Author: AndreyTitov <andpyxa07@gmail.com>
+Date:   Mon Apr 16 14:45:43 2018 +0300
+
+    add adaptive-mobile-slider to index.html
+
+[33mcommit 9d4a780fe93bb91f3820aec0f3f1e4fbf2c14fdd[m
+Author: AndreyTitov <andpyxa07@gmail.com>
+Date:   Mon Apr 16 11:56:41 2018 +0300
+
+    fixed index.html bug and add animate arrow in header
+
+[33mcommit 42353e0459b9b5e1ae3792765d00252aa01e9c1e[m
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Mon Apr 16 02:26:35 2018 +0300
+
+    Links
+
+[33mcommit 82c9bd93c2b14125b2fcaa3c67c8dd0fd502ef94[m
+Merge: e21d923 824b69a
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Mon Apr 16 01:42:08 2018 +0300
+
+    Merge branch 'master' of https://github.com/ivandoroshenko/skate-fresh
+
+[33mcommit 824b69a41eb10f9a8f3cab44f46c70052e6d1d94[m
+Merge: fb56043 8931bdf
+Author: AndreyTitov <andpyxa07@gmail.com>
+Date:   Mon Apr 16 01:41:27 2018 +0300
+
+    add slider to index.html
+
+[33mcommit fb56043bd2bf1b9dff5a46411caca43ce6e9829b[m
+Author: AndreyTitov <andpyxa07@gmail.com>
+Date:   Mon Apr 16 01:39:13 2018 +0300
+
+    add slider to index.html
+
+[33mcommit e21d9239062263bd231b41d17e83857fdbc5964b[m
+Merge: 67ef18d 8931bdf
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Mon Apr 16 01:06:03 2018 +0300
+
+    Merge branch 'master' of https://github.com/ivandoroshenko/skate-fresh
+
+[33mcommit 67ef18d95100c030ae31ff8a5e1c34234ac7b694[m
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Mon Apr 16 01:04:17 2018 +0300
+
+    Ivan added links and breadcrumbs
+
+[33mcommit 8931bdf55cea5be1482226caf69ecf98d8a0c0fb[m
+Merge: db3adb7 56c07c6
+Author: deniskliatskii <deniskldesign@gmail.com>
+Date:   Mon Apr 16 00:41:56 2018 +0300
+
+    commit before pull
+
+[33mcommit db3adb741a5bcaa3f4b5f330296cf80b96d5eff9[m
+Author: deniskliatskii <deniskldesign@gmail.com>
+Date:   Mon Apr 16 00:32:35 2018 +0300
+
+    add new pages how to stop beginner advanced intermediate
+
+[33mcommit 56c07c617cf16ea8c8afc70f66fc1c41bf3af1fa[m
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Mon Apr 16 00:08:12 2018 +0300
+
+    commit 90e0499
+
+[33mcommit 90e04991219d6bc14cf37423aa35e4e02fe638b3[m
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Mon Apr 16 00:02:25 2018 +0300
+
+    chekout because of bugs
+
+[33mcommit 648325548672c567117c8d73d8cce323899e48cd[m
+Merge: 1cf649c 38a463d
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Sun Apr 15 19:06:15 2018 +0300
+
+    Merge branch 'master' of https://github.com/ivandoroshenko/skate-fresh
+
+[33mcommit 1cf649ceca043b76331b6e514d4081808419331f[m
+Author: ivandoroshenko <ivandoroshenko1988@gmail.com>
+Date:   Sun Apr 15 19:05:41 2018 +0300
+
+    premerge with Andrey
+
+[33mcommit 38a463d160756484a9e4d8a0de6780f81bd73b79[m
+Author: AndreyTitov <andpyxa07@gmail.com>
+Date:   Sun Apr 15 18:39:40 2018 +0300
+
+    add skate-for-fitness-beginner
+
+[33mcommit 2f41c350a566612b89478b74a7cd3cdd6483885d[m
+Merge: 02d21b8 eaf2c37
+Author: AndreyTitov <andpyxa07@gmail.com>
+Date:   Sun Apr 15 16:42:13 2018 +0300
+
+    add skate

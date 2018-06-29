@@ -1,0 +1,7 @@
+*.psd
+*.odt
+*.ods
+*.zip
+*.rar
+node_modules/
+ready_for_coding/

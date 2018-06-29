@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    min-height: 100vh;
+    font-size: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: $baseFont;  // Шрифт задавать в файле  fonts adjusments in  _variables.scss 
+    
+}
+
+.main-content {
+    flex-grow: 1;
+}
+
+// Центрирующий контейнер под медиа запросы параметры менять в mixin
+// .container {  
+//     width: 1200px;
+// } 
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    color: #000;
+    cursor: pointer;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+// delete margin end padding h:
+
+h1, h2, h3, h4, h5, h6 {   
+    margin: 0;
+    padding: 0;
+} 
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.ml-md-auto {
+  margin-left: auto;
+}
+
+.mr-md-auto {
+  margin-right: auto;
+}
